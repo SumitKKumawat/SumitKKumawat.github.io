@@ -1,2 +1,0 @@
-# WebAppGitHub
-www.sumeet.ai
